@@ -1,1 +1,3 @@
-Coding exercise replacing Redux with React Context
+Simple React exercise replacing Redux with React Context.
+
+
